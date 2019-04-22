@@ -1,0 +1,11 @@
+C:\Users\Sami\source\repos\ifstatement\ifstatement\bin\Debug\netcoreapp2.1\ifstatement.deps.json
+C:\Users\Sami\source\repos\ifstatement\ifstatement\bin\Debug\netcoreapp2.1\ifstatement.runtimeconfig.json
+C:\Users\Sami\source\repos\ifstatement\ifstatement\bin\Debug\netcoreapp2.1\ifstatement.runtimeconfig.dev.json
+C:\Users\Sami\source\repos\ifstatement\ifstatement\bin\Debug\netcoreapp2.1\ifstatement.dll
+C:\Users\Sami\source\repos\ifstatement\ifstatement\bin\Debug\netcoreapp2.1\ifstatement.pdb
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.csprojAssemblyReference.cache
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.AssemblyInfoInputs.cache
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.AssemblyInfo.cs
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.dll
+C:\Users\Sami\source\repos\ifstatement\ifstatement\obj\Debug\netcoreapp2.1\ifstatement.pdb
